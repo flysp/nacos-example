@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: nacos-consumer-feign
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+server:
+  port: 7073
+
+
+logging:
+  level:
+    com.jxed: debug
+
+debug: true

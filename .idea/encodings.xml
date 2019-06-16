@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$USER_HOME$/Desktop/nacos-1.0.1/console/src/main/resources/META-INF/nacos-default.properties" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/nacos-1.0.1/console/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-config-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-consumer01-ribbion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-consumer02-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-provider" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

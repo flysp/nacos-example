@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: nacos-config
+
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+#  profiles:
+#    active: test
+#        shared-dataids: nacos-config-dev.yaml   #共享配置      xxx.yaml,yyyy.yaml
+#        refreshable-dataids: true  #是否自动刷新
+        ext-config:
+          - data-id: nacos-config-group.yaml
+            refresh: true
+            group: CONFIG-GROUP
+#          - data-id: yyyy
+#            refresh: true
+#            gourp: yyygroup
